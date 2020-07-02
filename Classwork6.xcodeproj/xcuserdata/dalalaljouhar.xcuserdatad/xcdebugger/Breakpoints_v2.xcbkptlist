@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "37B12BD0-06D3-47E9-8258-6D8F9BA09C7A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9DEBC75-2183-4B22-9996-0544973F8D72"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Classwork6/MoviesMasterVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "MoviesMasterVC"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C0275F6-FA0F-496A-829F-D838738F6D98"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Classwork6/MoviesMasterVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "MoviesMasterVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9C0275F6-FA0F-496A-829F-D838738F6D98 - 177c1765bd8d2123"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Classwork6.MoviesMasterVC"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalalaljouhar/Documents/ios-cw-6/Classwork6/MoviesMasterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1141">
+               </Location>
+               <Location
+                  uuid = "9C0275F6-FA0F-496A-829F-D838738F6D98 - c99b57f1dbeeb150"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Classwork6.MoviesMasterVC&gt;"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalalaljouhar/Documents/ios-cw-6/Classwork6/MoviesMasterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1082">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8389289F-BF1C-46B7-9F52-14B5C0056459"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Classwork6/MoviesMasterVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "MoviesMasterVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8389289F-BF1C-46B7-9F52-14B5C0056459 - 7c088269a77fd88e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVC.marvelImg0.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalalaljouhar/Documents/ios-cw-6/Classwork6/MoviesMasterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "8389289F-BF1C-46B7-9F52-14B5C0056459 - b2f679ba5b3638b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVC.marvelImg0.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalalaljouhar/Documents/ios-cw-6/Classwork6/MoviesMasterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "8389289F-BF1C-46B7-9F52-14B5C0056459 - a87ba5fdfe74083"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVC.marvelImg0.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalalaljouhar/Documents/ios-cw-6/Classwork6/MoviesMasterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "8389289F-BF1C-46B7-9F52-14B5C0056459 - 3da245bf46194c80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVC.marvelImg0.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalalaljouhar/Documents/ios-cw-6/Classwork6/MoviesMasterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "8389289F-BF1C-46B7-9F52-14B5C0056459 - 177c1765bd8d2123"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Classwork6.MoviesMasterVC"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalalaljouhar/Documents/ios-cw-6/Classwork6/MoviesMasterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1141">
+               </Location>
+               <Location
+                  uuid = "8389289F-BF1C-46B7-9F52-14B5C0056459 - c99b57f1dbeeb150"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Classwork6.MoviesMasterVC&gt;"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalalaljouhar/Documents/ios-cw-6/Classwork6/MoviesMasterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1082">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BDE01024-9D8C-487D-AE7D-6E42E02FD0A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Classwork6/MoviesMasterVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "MoviesMasterVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "BDE01024-9D8C-487D-AE7D-6E42E02FD0A3 - 7c088269a77fd88e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVC.marvelImg0.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalalaljouhar/Documents/ios-cw-6/Classwork6/MoviesMasterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "BDE01024-9D8C-487D-AE7D-6E42E02FD0A3 - b2f679ba5b3638b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVC.marvelImg0.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalalaljouhar/Documents/ios-cw-6/Classwork6/MoviesMasterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "BDE01024-9D8C-487D-AE7D-6E42E02FD0A3 - a87ba5fdfe74083"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVC.marvelImg0.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalalaljouhar/Documents/ios-cw-6/Classwork6/MoviesMasterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "BDE01024-9D8C-487D-AE7D-6E42E02FD0A3 - 3da245bf46194c80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVC.marvelImg0.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalalaljouhar/Documents/ios-cw-6/Classwork6/MoviesMasterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "BDE01024-9D8C-487D-AE7D-6E42E02FD0A3 - 177c1765bd8d2123"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Classwork6.MoviesMasterVC"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalalaljouhar/Documents/ios-cw-6/Classwork6/MoviesMasterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1141">
+               </Location>
+               <Location
+                  uuid = "BDE01024-9D8C-487D-AE7D-6E42E02FD0A3 - c99b57f1dbeeb150"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Classwork6.MoviesMasterVC&gt;"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalalaljouhar/Documents/ios-cw-6/Classwork6/MoviesMasterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "1082">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A32F490-2B6A-4D4C-9BAC-BE8445AEDE2A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Classwork6/MoviesMasterVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "MoviesMasterVC"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2A32F490-2B6A-4D4C-9BAC-BE8445AEDE2A - 867222a35404f28f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVC.marvelImg1.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalalaljouhar/Documents/ios-cw-6/Classwork6/MoviesMasterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "2A32F490-2B6A-4D4C-9BAC-BE8445AEDE2A - bd6399f448ded2b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVC.marvelImg1.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalalaljouhar/Documents/ios-cw-6/Classwork6/MoviesMasterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "2A32F490-2B6A-4D4C-9BAC-BE8445AEDE2A - 14f1dae9cc8c1a80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVC.marvelImg1.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalalaljouhar/Documents/ios-cw-6/Classwork6/MoviesMasterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "2A32F490-2B6A-4D4C-9BAC-BE8445AEDE2A - 3da245bf46194c80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVC.marvelImg1.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalalaljouhar/Documents/ios-cw-6/Classwork6/MoviesMasterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "2A32F490-2B6A-4D4C-9BAC-BE8445AEDE2A - 177c1765bd8d2123"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVC.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Classwork6.MoviesMasterVC"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalalaljouhar/Documents/ios-cw-6/Classwork6/MoviesMasterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1262">
+               </Location>
+               <Location
+                  uuid = "2A32F490-2B6A-4D4C-9BAC-BE8445AEDE2A - c99b57f1dbeeb150"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Classwork6.MoviesMasterVC.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Classwork6.MoviesMasterVC&gt;"
+                  moduleName = "Classwork6"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dalalaljouhar/Documents/ios-cw-6/Classwork6/MoviesMasterVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "1203">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
